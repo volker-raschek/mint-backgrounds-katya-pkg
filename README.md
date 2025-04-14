@@ -1,7 +1,6 @@
 # mint-backgrounds-katya
 
 ![AUR version](https://img.shields.io/aur/version/mint-backgrounds-katya?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/mint-backgrounds-katya-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/mint-backgrounds-katya-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/mint-backgrounds-katya)
 
 This repository contains build files to build the Arch Linux package `mint-backgrounds-katya`. Instead of building the
